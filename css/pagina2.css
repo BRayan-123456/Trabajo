@@ -1,0 +1,131 @@
+body{
+	background-color:goldenrod;
+}
+.inicio{
+	background-color: white
+}
+.mic{
+    margin-left: 80px;
+    
+}
+.img1{
+    margin-left: 200px;
+    margin-top: 50PX;
+    border: 2px solid white;
+}
+.text1{
+    font-size: 40px;
+    position: absolute;
+    margin-left: 750px;
+    margin-top: -400px;
+    width: 500px;
+    color: beige;
+}
+.precio1{
+    color: beige;
+    font-size: 30px;
+    position: absolute;
+    margin-left: 750px;
+    margin-top: -300px;
+}
+.talla{
+    font-size: 25px;
+    position: absolute;
+    margin-left: 750px;
+    margin-top: -200px;
+    color: beige;
+}
+.formu1{
+    position: absolute;
+    margin-left: 750px;
+    margin-top: -150px;
+}
+.cantidad{
+    font-size: 25px;
+    position: absolute;
+    margin-left: 950px;
+    margin-top: -200px;
+    color: beige;
+}
+.formu2{
+    position: absolute;
+    margin-left: 1000px;
+    margin-top: -150px;
+}
+.f1, .f2{
+    border: 5px solid darkorange;
+    border-radius: 10px 10px 10px 10px;
+    -moz-border-radius: 10px 10px 10px 10px;
+    -webkit-border-radius: 10px 10px 10px 10px;
+}
+.but1{
+    position: absolute;
+    margin-left: 750px;
+    margin-top: -70px;
+    font-size: 20px;
+    border-radius: 10px 10px 10px 10px;
+    -moz-border-radius: 10px 10px 10px 10px;
+    -webkit-border-radius: 10px 10px 10px 10px;
+    background-color: chartreuse;
+}
+.cja2{
+	height: 400px;
+	width: 400px;
+	border: 2px solid white;
+	position: absolute;
+	top: 680px;
+	left: 200px;
+	border-radius: 10px 10px 10px 10px;
+    -moz-border-radius: 10px 10px 10px 10px;
+    -webkit-border-radius: 10px 10px 10px 10px;
+}
+.cja3{
+	height: 400px;
+	width: 400px;
+	border: 2px solid white;
+	position: absolute;
+	top: 680px;
+	left: 750px;
+	border-radius: 10px 10px 10px 10px;
+    -moz-border-radius: 10px 10px 10px 10px;
+    -webkit-border-radius: 10px 10px 10px 10px;
+}
+.img2, .img3{
+	text-align: center;
+	border: 2px solid black;
+	border-radius: 10px 10px 10px 10px;
+    -moz-border-radius: 10px 10px 10px 10px;
+    -webkit-border-radius: 10px 10px 10px 10px;
+}
+.precio1, .precio2, .precio3, .precio4{
+	text-align: center;
+	color: white;
+    font-size: 25px;
+}
+.text2, .text3{
+	font-size: 20px;
+	color: white;
+	text-align: center;
+}
+.but2, .but3{
+	margin-left: 37%;
+	margin-top: 4%;
+	background-color: chartreuse;
+	color:black;
+	font-size: 20px;
+	border-radius: 10px 10px 10px 10px;
+    -moz-border-radius: 10px 10px 10px 10px;
+    -webkit-border-radius: 10px 10px 10px 10px;
+}
+.fin{
+	background-color: white;
+	margin-top: 550px;
+
+}
+.mic2{
+	margin-left: 80px;
+}
+.bras{
+	margin-left: 1200px;
+	margin-top: -200px;
+}
